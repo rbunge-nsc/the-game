@@ -12,11 +12,11 @@ I put the machine learning wiki link at the end of my entry so you can pull info
 
   ADD PARAGRAPH OR TWO TO WIKI FILE
   
-  DOWNLOAD ALL THE HTML FILES FROM theGaryLarson/class_collab
+  DOWNLOAD ALL THE HTML FILES FROM theGaryLarson/the-game
   
   FILL IN THE AREAS IN YOUR HTML SOURCE CODE THAT ARE LABELED WITH COMMENTS (will see when you open your html source code)
   
-  PERFORM A PULL REQUEST OFF OF theGaryLarson/class_collab
+  PERFORM A PULL REQUEST OFF OF theGaryLarson/the-game
   
   CONFIRM WITH GARY THAT HE SEES IT
       
@@ -25,7 +25,7 @@ I put the machine learning wiki link at the end of my entry so you can pull info
   
 ## OVERALL WORKFLOW:
 
-Everyone should download all the html files under theGaryLarson/class_collab.
+Everyone should download all the html files under theGaryLarson/the-game.
 All the pages are linked together and stubbed out for you to fill in with your thing and description. This will become clearer when you view your source code for the html file.
 
 Open index.html and navigate with the links. So you see how everything connects.
@@ -38,13 +38,8 @@ Whatever script or complexity you add to your page shouldn't affect another page
 Keep in mind if it affects another group members page get permission and work with them on what you would like to do.
 
 Once you have made changes to your .html file do a pull request.
-BRANCH: theGaryLarson/class_collab branch
+BRANCH: theGaryLarson/the-game branch
 
 Any questions and you want to talk to me immediately contact me through Discord chat server.
 Discord invite: https://discord.gg/fmygJfxc3v   (Limit of 5 invites GROUP MEMBERS ONLY please)
-
-Or call me at 1.360.322.9617 Please text first as I might not answer an unknown number. You can even text "Hey check Discussion board" and I will ASAP.
-
-FYI: This is a private repository. Please don't make it public if you have permissions.
-
 
