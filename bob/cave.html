@@ -1,0 +1,76 @@
+<!-- TheGame -->
+<!-- version 0.2 -->
+<!-- 1/9/21 -->
+
+<html>
+<head>
+
+<style>
+img {
+  border: 15px solid #ddd;
+  border-radius: 40px;
+  padding: 3px;
+  width:600px;
+  height:450px;
+}
+
+input {
+  border: 15px solid #ddd;
+  border-radius: 40px;
+  padding: 3px;
+  width:80px;
+  height:80px;
+  font-size: 40px;
+}
+</style>
+
+<script language = "JavaScript">
+var myimages = ["images/testpattern.jpg", "images/wandavision.jpg", "images/mando.jpg", "images/doom-patrol-show.jpg", "images/sabrina.jpg"];
+
+function buildImages() {
+for (var i = 0; i < myimages.length; i++) {
+       document.getElementById("thepic").src=images[i++];
+   }
+}
+
+var currentImage = 0;
+
+function goHigher() {
+  currentImage++;
+  currentImage = currentImage%5;
+  document.getElementById("demo").setAttribute("src",myimages[currentImage]);
+}
+
+function goLower() {
+  currentImage--;
+  if(currentImage<0){currentImage=4;}
+  else{currentImage = currentImage%5;}
+  document.getElementById("demo").setAttribute("src",myimages[currentImage]);
+}
+
+</script>
+<title>
+Bob's Cave
+</title>
+
+</head>
+<body onload="buildImages()">
+
+<h1>Bob's Cave</h1>
+
+<h2>There is a big screen on the wall. Use the controls to find out what is playing!</h2>
+
+<img id="demo" style="">
+<script>
+document.getElementById("demo").setAttribute("src",myimages[0]);
+</script>
+
+</br></br>
+
+<input type="button" value="^" onClick="goHigher()">
+<input type="button" value="v" onClick="goLower()">
+
+
+</body>
+
+</html>
