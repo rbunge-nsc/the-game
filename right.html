@@ -3,13 +3,37 @@
 <!-- 1/9/21 -->
 
 <html>
+    <h1> Right Room</h1>
 
-<h1> Right Room</h1>
+<p>You enter the room and find four walls each with a different tunnel.  Which tunnel do you chose to go through?</p>
+    <head>  
+<title>Right Room</title>
+<script language="JavaScript">
+function reveal1(){
+var Tunnel1 = document.theForm.elements[0].value
+document.write("In tunnel one there is room of grow lights and plants.")}
+function reveal2(){
+   var Tunnel2 = document.theForm.elements[0].value
+document.write("In tunnel two, you swim into the deep ocean.")} 
+function reveal3(){
+    var Tunnel3 = document.theForm.elements[0].value
+document.write("You enter tunnel 3 and the room is filled with posion and you die")}
+function reveal4(){
+    var Tunnel4 = document.theForm.elements[0].value
+document.write("In tunnel four has shop people can purchase it and hang out place.")} 
 
-<p>TODO </p>
+</script>
+</head>
+<body>
+<form name="theForm">
 
-<p>What will you do now?</p>
-    
+<input id="Tunnel1" type="button" value="Tunnel 1" onClick="reveal1()">
+    <input type="button" value="Tunnel 2" onClick="reveal2()">
+    <input type="button" value="Tunnel 3" onClick="reveal3()">
+    <input type="button" value="Tunnel 4" onClick="reveal4()">
+</form>
+</body>
+
 
 
 </html>
