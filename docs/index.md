@@ -2,7 +2,7 @@
 
 # Group 1 finally made it!!! Yeah!!!!
 
-Our game room project is about to lauch!
+```Our game room project is about to lauch!
 
 When you start the game, you are in _an empty room!_
 
@@ -16,7 +16,7 @@ Choose one to start your adventure!
 
 Choose Forward, you will see us!!!
 
-### Have fun!
+### Have fun!```
 
 
 
@@ -53,7 +53,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+markdown
 Syntax highlighted code block
 
 # Header 1
@@ -69,7 +69,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
