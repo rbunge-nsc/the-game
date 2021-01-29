@@ -2,7 +2,7 @@
 
 # Group 1 finally made it!!! Yeah!!!!
 
-```markdown
+
 Our game room project is about to lauch!
 
 When you start the game, you are in _an empty room!_
@@ -17,7 +17,7 @@ Choose one to start your adventure!
 
 Choose Forward, you will see us!!!
 
-### Have fun!```
+### Have fun!
 
 
 
