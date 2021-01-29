@@ -2,7 +2,8 @@
 
 # Group 1 finally made it!!! Yeah!!!!
 
-```Our game room project is about to lauch!
+```markdown
+Our game room project is about to lauch!
 
 When you start the game, you are in _an empty room!_
 
