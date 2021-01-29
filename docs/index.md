@@ -1,6 +1,49 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages- Group 1
 
-# Shout Out to Group 4!!!
+# Group 1 finally made it!!! Yeah!!!!
+
+Our game room project is about to lauch!
+
+When you start the game, you are in _an empty room!_
+
+Choose which direction you want to go?
+
+** Forward? Left? Right? Backward? **
+
+Where will you go? 
+
+Choose one to start your adventure! 
+
+Choose Forward, you will see us!!!
+
+### Have fun!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/rbunge-nsc/the-game/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
