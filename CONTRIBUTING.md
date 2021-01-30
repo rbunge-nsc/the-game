@@ -4,9 +4,9 @@ Welcome to group2's version of the-game! This is an open source project for stud
 
 ## Environment Details
 
-Part of the class is to explore different development enviroments. This repository will be for code contributions from our group. The class is divided into groups and we were all uploading files to the fork of our instructors repository(theGaryLarson/the-game). Now the code lives in this fork and were branching off to make our own modifications and changes.
+Part of the class is to explore different development enviroments. This repository will be for code contributions from our group. The class is divided into groups and we were all uploading files to the fork of our instructors repository(theGaryLarson/the-game). Now the code lives in this fork and we are branching off to make our own modifications and changes.
 There is a directory for each room. Our group should  contribute code to the forked repository for his/her group. The GitHub security model allows each contributor access
-to the entire repository, but please be responsibe and follow the file structure laid out in the section, Workflow contribution process. If you are unsure just open a pull request and a collaborator will review before merge. If there are any issues comments will be left under the discussion tab of the pull request.
+to the entire repository, but please be responsibe and follow the file structure laid out in the section, Workflow contribution process. If you are unsure after reading just open a pull request and a collaborator will review before merge. If there are any issues comments will be left under the discussion tab of the pull request. After you read it please leave a comment acknowledging you read it and fix the changes in the branch created for that pull request and reopen another pull request commenting on fixed issue.
 
 This is going to be a web application. The directory structure will work like a tree.
 
