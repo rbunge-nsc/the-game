@@ -1,13 +1,11 @@
 # Welcome!
 
-Welcome to The Game! This is an open source project for students in IT 115. The goal of the project is to make a bunch of web application code so we can all practice
-managing this code on GitHub. 
+Welcome to Grop 1 -- Group Project! This is an open source project for students in IT 115. The goal of the project is to make a bunch of web application code so we can all practice managing this code on GitHub. 
 
 ## Environment Details
 
-Part of the class is to explore different development enviroments. This repository will be for code contributions from all class members. The class is divided into groups.
-There is a directory for group. Each student should only contribute code to the directory for his/her group. The GitHub security model allows each contributor access
-to the entire repository, but please be responsibe and put your code in your assigned directory!
+Part of the class is to explore different development enviroments. This repository will be for code contributions from all group members.
+This is the directory for group 1. Each group member contribute code to this directory. The repo already gave access to all group members as collaborator to access and manage the whole directory. However, in order to make the main repo deployable at anytime, please set up branches before editing, and seek other collaboartors' reviews before putting the changes to the main. 
 
 This is going to be a web application. The directory structure will work like a tree.
 
@@ -15,19 +13,18 @@ This is going to be a web application. The directory structure will work like a 
 
 You can test the latest version of The Game at this URL:
 
-http://the-game-demo.s3-website-us-east-1.amazonaws.com/index.html
+(Will be provided soon)
 
 Our current testing procedure is to click on each link and check for broken links and missing pages. 
 
 ## Bug Reports
 
-Report bugs to your group's leader. You can also report bugs here:
+Report bugs to your group's leader. You can also report bugs through canvas message.
 
-https://canvas.northseattle.edu/courses/2023764/discussion_topics/12224321
 
 ## Code of Conduct
 
-Please respect the Game's purpose and design structure. The design structure is described below. 
+Please respect the Group project's purpose and design structure. The design structure is described below. 
 
 ### At the top of the structure will be:
 
@@ -38,24 +35,17 @@ Please respect the Game's purpose and design structure. The design structure is 
 * LICENSE
 * CONTRIBUTING.md
 
-### At the next level will be directories for each group and for the lead author (bob):
+### The next level will be directories for each group members:
+* directory contains .html files to different room adventures
 
-* group1
-* group2
-* group3
-* group4
-* bob
+### index.html directs user to different rooms for different adventures and endings. 
 
-### Index.html will point to one landing page in each group's directory:
-
-* group1 > front.html
-* group2 > back.html
-* group3 > right.html
-* group4 > left.html
-* bob > cave.html
+* room1.html
+* room2.html
+* room3.html
 
 ### Reminders
 
-* Be sure to keep your group's content in it's own folder!
-* Also be sure to fix any broken links in your group's folder!
+* Be sure to keep your contributions in branch and then ask group members to review before merge to main!
+* Also be sure to use simple text html language!
 * Any stray files or directories left at the top level will be deleted.
