@@ -25,7 +25,7 @@ Report bugs to your group's leader. You can also report bugs here:
 
 https://canvas.northseattle.edu/courses/2023764/discussion_topics/12224321
 
-## [Code of Conduct]("CODE OF CONDUCT.md")
+## Code of Conduct
 
 Please respect the Game's purpose and design structure. The design structure is described below. 
 
