@@ -1,13 +1,12 @@
 # Welcome!
 
-Welcome to The Game! This is an open source project for students in IT 115. The goal of the project is to make a bunch of web application code so we can all practice
-managing this code on GitHub. 
+Welcome to group2's version of the-game! This is an open source project for students in IT 115. The goal of the project is to make a bunch of web application code so we can all practice managing this code on GitHub. 
 
 ## Environment Details
 
-Part of the class is to explore different development enviroments. This repository will be for code contributions from all class members. The class is divided into groups.
-There is a directory for group. Each student should only contribute code to the directory for his/her group. The GitHub security model allows each contributor access
-to the entire repository, but please be responsibe and put your code in your assigned directory!
+Part of the class is to explore different development enviroments. This repository will be for code contributions from our group. The class is divided into groups and we were all uploading files to the fork of our instructors repository(theGaryLarson/the-game). Now the code lives in this fork and were branching off to make our own modifications and changes.
+There is a directory for each room. Our group should  contribute code to the forked repository for his/her group. The GitHub security model allows each contributor access
+to the entire repository, but please be responsibe and follow the file structure laid out in the section, Workflow contribution process. If you are unsure just open a pull request and a collaborator will review before merge. If there are any issues comments will be left under the discussion tab of the pull request.
 
 This is going to be a web application. The directory structure will work like a tree.
 
@@ -38,7 +37,7 @@ Please respect the Game's purpose and design structure. The design structure is 
 * LICENSE
 * CONTRIBUTING.md
 
-### At the next level will be directories for each group and for the lead author (bob):
+### At the next level will be directories for each room and for the lead author (bob):
 
 * group1
 * group2
