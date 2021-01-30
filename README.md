@@ -1,16 +1,16 @@
-# the-game
-Project repository for IT 115 Winter 2021
+# Group 2
 
-Students in IT 115 are going to add content to this project. 
+## Assignment 4 Due: Feb 3
 
-The Game itself does really have to do very much. It's mostly just an excuse to make several directories of practice code we can practice managing projects on GitHub.
-That being said, if you can add some fun features to the Game, please do!
+Work with your group to make and edit a contributing.md file for your group's shared repository. Upload the CONTRIBUTING.md file to the main branch of your repository. Here is a tutorial on the CONTRIBUTING.md file:
 
-To get started with this project, you have to sign up for IT 115. Then you will be assigned to a group. Your group will contribute code to this class-level repository. 
+http://mozillascience.github.io/working-open-workshop/contributing/
 
-Users can get help with this project by posting on this technical discussion board:
-
-https://canvas.northseattle.edu/courses/2023764/discussion_topics/12224321
-
-Robert Bunge is the primary editor for this class-level repository for the game. All class members are invited to collaborate. Different groups will also set up their own 
-independent repositories for forks of this project. 
+For grading purposes, each group member needs to put the url of the group's CONTRIBUTING.md file into his/her Canvas Dropbox. Also include a Dropbox comment stating at least one suggestion you made to the group about something that went in to the CONTRIBUTING.md file.
+ 
+## Assignment 3
+1. Create a branch from the main with your name
+2. Add code to your branch to improve game
+3. Commit the code to your branch
+4. Create a pull request for a teammate to review
+5. Review another teammate's code, comment and approve it for a merge to the main branch within the group 2 repository. 
