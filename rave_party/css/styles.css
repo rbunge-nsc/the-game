@@ -11,7 +11,7 @@
         #wrapper {
             width:940px;
             margin:0px auto;
-            background: rgba(255, 255, 255, .9)
+            background: #dcdcdc;
     }
         header {
             background:#00f;
@@ -23,6 +23,7 @@
             line-height:50px;
             background:#ff0;
             border-radius:25px;
+            margin-top:5px;
     }
 
         nav ul{
@@ -36,13 +37,13 @@
             font-weight:bold;
     }
 
-        a {
+         nav a {
             text-decoration:none;
             display:block;
             color:#000;
     }
 
-        nav a:hover{
+         nav a:hover{
             background:#000;
             color:#fff;
     }
