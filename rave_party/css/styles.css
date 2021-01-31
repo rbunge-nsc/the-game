@@ -1,0 +1,88 @@
+/*Styles for Rave Party*/
+* {
+            padding:0;
+            margin:0;
+    }
+        body {
+            font-size:100%;
+            background:#dcdcdc;
+            height:auto;
+    }
+        #wrapper {
+            width:940px;
+            margin:0px auto;
+            background: rgba(255, 255, 255, .9)
+    }
+        header {
+            background:#00f;
+            height:150px;
+    }
+
+        nav {
+            height:75px;
+            line-height:50px;
+            background:#ff0;
+            border-radius:25px;
+    }
+
+        nav ul{
+            list-style-type:none;
+    }
+
+        nav li {
+            float:left;
+            width:14.285%;
+            text-align:center;
+            font-weight:bold;
+    }
+
+        nav a {
+            text-decoration:none;
+            display:block;
+            color:#000;
+    }
+
+        nav a:hover{
+            background:#000;
+            color:#fff;
+    }
+
+        main {
+            width:100%;
+            height:300px;
+            background:#acd8e7;
+    }
+        #left_container{
+            width:5%;;
+            height:300px;
+            background:#f00;
+            float:left;
+    }
+        #mid_container{
+            width:90%;;
+            height:300px;
+            float:left;
+            background:#fff;
+            margin-left:0px
+    }
+        
+        #right_container{
+            width:5%;;
+            height:300px;
+            background:#ffbfcb;
+            float:right;
+    }
+        #inventory {
+            width:100%;
+            height:150px;
+            background:#666;
+            padding-left:5px;
+            padding-top:5px;
+            
+    }
+        footer {
+            line-height:150px;
+            height:150px;
+            background:#dcdcdc;
+            text-align:center;
+        }
