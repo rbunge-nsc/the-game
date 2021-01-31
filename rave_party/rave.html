@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <title>Rave Party!!</title>
     <link href="css/styles.css" type="text/css" rel="stylesheet">
+    <script src="js/rave.js"></script>
+    
 </head>
 <body>
    <div id="wrapper">
@@ -12,28 +14,34 @@
      
      <main>
          <div id="left_container"></div>
-         <div id="mid_container"></div>
+         <div id="mid_container">
+             <a id="start" onlick="startGame()">START</a>
+         </div>
          <div id="right_container"></div>
      </main> 
-     <nav>
-         <ul>
-          <li><a onclick="document.write('test')" href="">First</a></li>
-          <li><a href="">Second</a></li>
-          <li><a href="">Third</a></li>
-          <li><a href="">Fourth</a></li>
-          <li><a href="">Fifth</a></li>
-          <li><a href="">Sixth</a></li>
-          <li><a href="">Last</a></li>
-      </ul>
-     </nav> 
+     
      <div id="inventory">
        <h3>Items</h3>  
        <img src="" onclick=""><img src="" onclick=""><img src="" onclick="">
-   </div>
-   </div>
-<!--   end of wrapper-->
-   
-   
-    
+     </div>
+     <nav>
+         <ul>
+<!--         TODO: CREATE a function that populates page elements with room details-->
+<!--         issue: clicking this link the output only flashes briefly then reverts to original content-->
+          <li><a onclick="document.write('asdf')" href="">First</a></li>
+          <li><a href="">Second</a></li>
+          <li><a href="">Third</a></li>
+          <li><a href="">Fourth</a></li>
+          
+      </ul>
+     </nav> 
+   </div><!--   end of wrapper-->
+   <audio id="intro">
+       <source src="sounds/title-letsPlay.mp3" type="audio/mp3" />
+   </audio>
+   <script>
+       var audio = document.getElementById("intro");
+       audio
+   </script>
 </body>
 </html>
