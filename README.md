@@ -11,6 +11,12 @@
 * Project page (done)
 
 
+### BREAK OUT GROUP DISCUSSION:
+
+* everyone knows how to stay synced with repo confirmation
+* file structure
+* template for our pages
+* THEME!! :)
 
 There needs to be some file structure change. Please perform a  git pull and replace the following folders with your content. Then perform a git add . , git merge -m "your comment" , git push. So we get your changes. Any questions we can talk about it during or break out session or contact me.
 
