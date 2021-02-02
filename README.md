@@ -1,5 +1,25 @@
 # Group 2
 
+## Group Assignment Updates
+
+https://canvas.northseattle.edu/courses/2023764/assignments/21743024
+
+CONTRIBUTING.md (done) (assignment 4. If you haven't completed it add something to the CONTRIBUTING.md file and submit the link)
+README.md (done)
+Project page (done)
+
+
+
+There needs to be some file structure change. Please perform a  git pull and replace the following folders with your content. Then perform a git add . , git merge -m "your comment" , git push. So we get your changes. Any questions we can talk about it during or break out session or contact me.
+
+directories need replaced or renamed.
+group1 - jaize
+group2 - nibesh
+group3 - lachlan
+group4 - trong
+new folder - gary
+bob - leave or take out.
+
 ## Assignment 4 Due: Feb 3
 
 Work with your group to make and edit a contributing.md file for your group's shared repository. Upload the CONTRIBUTING.md file to the main branch of your repository. Here is a tutorial on the CONTRIBUTING.md file:
