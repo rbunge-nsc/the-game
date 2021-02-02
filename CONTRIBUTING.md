@@ -21,7 +21,7 @@ Our current testing procedure is to click on each link and check for broken link
 
 Report bugs by opening an issue:
 
-https://canvas.northseattle.edu/courses/2023764/discussion_topics/12224321
+https://github.com/theGaryLarson/the-game/issues
 
 ## [Code of Conduct]("CODE OF CONDUCT.md")
 
