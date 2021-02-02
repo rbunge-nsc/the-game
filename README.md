@@ -6,9 +6,7 @@
 
 ### CURRENT GROUP OBJECTIVES
 
-* CONTRIBUTING.md (done) 
-
-(assignment 4. If you haven't completed it add something to the CONTRIBUTING.md file and submit the link)
+* CONTRIBUTING.md (done) -assign4 details below
 * README.md (done)
 * Project page (done)
 
@@ -17,12 +15,13 @@
 There needs to be some file structure change. Please perform a  git pull and replace the following folders with your content. Then perform a git add . , git merge -m "your comment" , git push. So we get your changes. Any questions we can talk about it during or break out session or contact me.
 
 directories need replaced or renamed.
-group1 - jaize
-group2 - nibesh
-group3 - lachlan
-group4 - trong
-new folder - gary
-bob - leave or take out.
+
+* group1 - jaize
+* group2 - nibesh
+* group3 - lachlan
+* group4 - trong
+* new folder - gary
+* bob - leave or take out.
 
 ## Assignment 4 Due: Feb 3
 
