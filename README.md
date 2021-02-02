@@ -2,7 +2,9 @@
 
 ## Group Assignment Updates
 
-https://canvas.northseattle.edu/courses/2023764/assignments/21743024
+ link to bob's instructions: https://canvas.northseattle.edu/courses/2023764/assignments/21743024
+
+### CURRENT GROUP OBJECTIVES
 
 * CONTRIBUTING.md (done) 
 
