@@ -4,9 +4,9 @@
 
 https://canvas.northseattle.edu/courses/2023764/assignments/21743024
 
-CONTRIBUTING.md (done) (assignment 4. If you haven't completed it add something to the CONTRIBUTING.md file and submit the link)
-README.md (done)
-Project page (done)
+* CONTRIBUTING.md (done) (assignment 4. If you haven't completed it add something to the CONTRIBUTING.md file and submit the link)
+* README.md (done)
+* Project page (done)
 
 
 
