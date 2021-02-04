@@ -51,7 +51,6 @@ Please respect the Game's purpose and design structure. The design structure is 
 * group2 > back.html  (nibesh)
 * group3 > right.html (lachlan)
 * group4 > left.html  (trong)
-*
 * bob > cave.html
 
 ### Reminders
