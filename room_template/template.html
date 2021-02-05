@@ -5,19 +5,19 @@
     <meta charset="UTF-8">
     <title>Rave Party!!</title>
     <link href="css/styles.css" type="text/css" rel="stylesheet">
-    <script src="js/rave.js"></script>
+    <script src="js/main.js"></script>
     
 </head>
 <body>
    <div id="wrapper">
-     <header></header>
+     <header><h1 id="roomTitle">Rooms Title</h1></header>
      
      <main>
-         <div id="left_container"></div>
-         <div id="mid_container">
-             <a id="start" onlick="startGame()">START</a>
+         <div id="effect1"></div>
+         <div id="roomTextArea">
+             <p id="roomText">rooms description</p>
          </div>
-         <div id="right_container"></div>
+         <div id="effect2"></div>
      </main> 
      
      <div id="inventory">
@@ -25,14 +25,12 @@
        <img src="" onclick=""><img src="" onclick=""><img src="" onclick="">
      </div>
      <nav>
-         <ul>
+         <ul id="linkOptions">
 <!--         TODO: CREATE a function that populates page elements with room details-->
-<!--         issue: clicking this link the output only flashes briefly then reverts to original content-->
-<!--         originally I have onclick="audio.play()" when i type audio.play() in browser console it works -->
-          <li><a onclick="document.write('asdf')" href="">First</a></li>
-          <li><a href="">Second</a></li>
-          <li><a href="">Third</a></li>
-          <li><a href="">Fourth</a></li>
+          <li><input value= "First Room" type="button" onclick="room1()"></li>
+          <li><input value= "Second Room" type="button" onclick="room2()"></li>
+          <li><input value= "Third Room" type="button" onclick="room3()"></li>
+          <li><input value= "Fourth Room" type="button" onclick="room4()"></li>
           
       </ul>
      </nav> 
@@ -42,7 +40,7 @@
    </audio>
    <script>
        var audio = document.getElementById("intro");
-       audio
+       audio.play();
    </script>
 </body>
 </html>
