@@ -1,16 +1,24 @@
+## Introduction
 # the-game
-Project repository for IT 115 Winter 2021
+Project repository for Group 1 of IT 115 Winter 2021
+Front Room
 
-Students in IT 115 are going to add content to this project. 
+# What the project does
+The project is an adventure game that gives the player many options to explore different rooms.
 
-The Game itself does really have to do very much. It's mostly just an excuse to make several directories of practice code we can practice managing projects on GitHub.
-That being said, if you can add some fun features to the Game, please do!
+# Why the project is useful
+The project aids in learning GitHub and helps establishing a workflow.
 
-To get started with this project, you have to sign up for IT 115. Then you will be assigned to a group. Your group will contribute code to this class-level repository. 
+# How users can get started with the project
+The project is a text based game, built with HTML. 
+Any user can follow the flow of the game by clicking on the hyperlinks.
 
-Users can get help with this project by posting on this technical discussion board:
+# Where users can get help with your project
+Users can message the host (IreneC2020) if they wish to help with the project.
 
-https://canvas.northseattle.edu/courses/2023764/discussion_topics/12224321
+# Who maintains and contributes to the project
+IreneC2020 is hosting the main Repo.
+vchau254, evulsive, IreneC2020 are the main contributors.
 
-Robert Bunge is the primary editor for this class-level repository for the game. All class members are invited to collaborate. Different groups will also set up their own 
-independent repositories for forks of this project. 
+## Contribution Guidelines
+Anyone who wishes to contribute, please refer to 'CONTRIBUTING.md'.
