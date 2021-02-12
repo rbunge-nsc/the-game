@@ -23,7 +23,7 @@ Report bugs by opening an issue:
 
 https://github.com/theGaryLarson/the-game/issues
 
-## [Code of Conduct]("CODE OF CONDUCT.md")
+## Code of Conduct
 
 Please respect the Game's purpose and design structure. The design structure is described below. 
 
