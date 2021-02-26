@@ -30,8 +30,8 @@ directories need replaced or renamed.
 * bob - leave or take out.
 
 ### CURRENT ASSIGNMENT IN PROGRESS
-* Assignment 8
-* For this assignment, you are going to make one specific change to your group's project. You will log each action you take in making and managing this change. As a deliverable for this assignment, upload a file documenting your complete history in making and managing this change.
+#### Assignment 8
+For this assignment, you are going to make one specific change to your group's project. You will log each action you take in making and managing this change. As a deliverable for this assignment, upload a file documenting your complete history in making and managing this change.
 
 Here is your process outline:
 
