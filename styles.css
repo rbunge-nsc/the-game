@@ -1,0 +1,22 @@
+/*Formatting for the game page*/
+* {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size:100%;
+    font-family:Verdana, Helvetica, arial sans-serif;
+    
+}
+
+.wrapper {
+    font-size: 1.5em;
+    width:940px;
+    /*to center a box, or block level element use below to center*/
+    margin: 30px auto; /*2 value short cut tb rl*/
+    padding:20px;
+    background:white;
+    border-radius:25px;
+}
