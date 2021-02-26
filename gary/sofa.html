@@ -1,0 +1,34 @@
+<!-- TheGame -->
+<!--author: Gary Larson-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="css/styles.css" type="text/css" rel="stylesheet">
+    <script src="js/main.js"></script>
+    <!--this text will show in the title bar of the browser window    -->
+    <title>Old-worn couch</title>
+</head>
+<body>
+   <div class="wrapper">
+   <h1>Old-Worn Sofa</h1>
+    <!--This is the text they will see when they click on your item on the back.html page-->
+    <p id="textPlaceHolder">As you approach, you see the couch is worn with years of use. The frayed seams of the upholstery barely contain the lumpy foam from bursting out of the cushions. Upon closer inspection you seem to see some metallic object glinting in the light from between the cushions.</p>
+    </br>
+    <h3>What do you do now?</h3>
+    </br>
+    <ul>
+        <!--The way back to previous room (page). Possibly have multiple links connecting adjacent "areas/items"-->
+        <!--If we want to change this description thats fine. It just needs to be the same on every page        -->
+        <li><a href="../back.html">Move back to the middle of the room</a></li>
+        <li><a href="shinyObject.html">Inspect the shiny object</a></li>
+
+    </ul>
+    <form>
+        <!--TODO: style form finish functions for creating rooms-->
+        <input type="button" value="Insert Text" onclick="insertText('prompt()')">
+    </form>
+    </div>
+</body>
+</html>
